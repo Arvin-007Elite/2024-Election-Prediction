@@ -1,0 +1,86 @@
+UPA:
+
+WB: 3
+UP: 20
+TS: 10
+TN: 40
+RJ: 5
+PB: 11
+OD: 2
+MH: 28
+MP: 9
+KL: 5
+KA: 15
+JK: 7
+HP: 2
+HR: 2
+CTT: 5
+BH: 5 = 169 
+
+
+Strong Alliance:
+
+WB: 22
+KL: 15
+BH: 20
+Total Strong Alliance seats:
+22 + 15 + 20 = 57
+
+
+BJP:
+
+WB: 17
+UKK: 5
+UP: 60
+TS: 2
+RJ: 20
+PB: 2
+OD: 7
+MH: 20
+MP: 20
+KA: 13
+JK: 7
+HP: 2
+HR: 8
+GJ: 26
+CTT: 6
+BH: 15
+Total BJP seats:
+17 + 5 + 60 + 2 + 20 + 2 + 7 + 20 + 20 + 13 + 7 + 2 + 8 + 26 + 6 + 15 = 230
+
+
+North East:
+
+TR: 2
+NG: 1
+MZ: 1
+MG: 2
+MN: 2
+ASS: 14
+ARP: 2
+Total North East seats:
+2 + 1 + 1 + 2 + 2 + 14 + 2 = 24
+
+
+Union Territories:
+
+DL: 7
+LD: 1
+LD: 1
+J&K: 5
+DD: 2
+AND: 1
+CT: 1
+GO: 2
+Total Union Territories seats:
+7 + 1 + 1 + 5 + 2 + 1 + 1 + 2 = 20
+
+
+Others:
+
+Ts: 5
+SK: 1
+Od: 12
+AP: 25
+Total Others seats:
+5 + 1 + 12 + 25 = 43
